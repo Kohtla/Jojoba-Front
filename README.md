@@ -1,4 +1,5 @@
-# jojoba_front
+# Jojoba-Front
+Jojoba porfolio
 
 ## Project setup
 ```
@@ -27,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
